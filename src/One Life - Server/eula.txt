@@ -1,0 +1,5 @@
+#One Life SMP EULA File (DO NOT CHANGE ANYTHING UNLESS YOU KNOW EXACTLY WHAT YOU ARE DOING.)
+# By changing the setting below to TRUE you are indicating your agreement to our EULA (https://account.mojang.com/documents/minecraft_eula).
+# By changing the setting below to TRUE you are indicating your agreement to not reupload this package or any of its contents.
+# You are also indicating your agreement that space is an interesting place.
+eula=true

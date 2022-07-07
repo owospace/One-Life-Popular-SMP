@@ -1,0 +1,12 @@
+**Modpack Client:**
+- DiscordRP now works with CurseForge Versions
+- Removed Optifine (Only for CurseForge Versions)
+- Changed the "One Life" Version tab on the main menu to link with new Discord Server.
+- Updated Forge
+- Updated lots of mods.
+
+**Modpack Server:**
+- Changed the "get help" page to link to the new Discord Server.
+- Updated Server Watchdog to 4.1
+- All changes from Modpack Client.
+- Updated Forge to Latest

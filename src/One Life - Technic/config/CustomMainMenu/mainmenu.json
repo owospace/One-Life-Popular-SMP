@@ -1,0 +1,237 @@
+{
+    "images":
+    {
+
+		"black":
+        {
+            "image" : "onelife:bg_menu.png",
+            "posX" : 99,
+            "posY" : 0,
+            "width" : 155,
+            "height" : 800,
+            "alignment" : "top_left"
+        },
+		"logo":
+        {
+            "image" : "onelife:logo.png",
+            "posX" : 50,
+            "posY" : -10,
+            "width" : 250,
+            "height" : 120,
+            "alignment" : "top_left"
+        },
+        "discord":
+        {
+            "image" : "onelife:discord.png",
+            "posX" : -25, // default pos meant to be -25
+            "posY" : -50,
+            "width" : 150,
+            "height" : 75,
+            "alignment" : "left_center"
+        }
+
+	},
+
+    "buttons":
+    {
+
+        "discord":
+        {
+            "text" : "Discord",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 13180727,
+			"texture" : "onelife:btn.png",
+            "posX" : 10, // default pos meant to be -25
+            "posY" : 10,
+            "width" : 80,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
+			"alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://lunarcube.net/discord"
+            } 
+        },
+
+		"singleplayer":
+        {
+            "text" : "Singleplayer",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 13180727,
+			"texture" : "onelife:btn.png",
+            "posX" : 100,
+            "posY" : -30,
+            "width" : 153,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
+			"alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+
+		"multiplayer":
+        {
+            "text" : "Multiplayer",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 13180727,
+			"texture" : "onelife:btn.png",
+            "posX" : 100,
+            "posY" : -10,
+            "width" : 153,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
+			"alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+
+		"options":
+        {
+            "text" : "Options",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 13180727,
+			"texture" : "onelife:btn.png",
+            "posX" : 100,
+            "posY" : 10,
+            "width" : 153,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
+			"alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+
+		"language":
+        {
+            "text" : "Language",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 13180727,
+			"texture" : "onelife:btn.png",
+            "posX" : 100,
+            "posY" : 30,
+            "width" : 153,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
+			"alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+
+        "quit":
+        {
+            "text" : "Quit",
+			"normalTextColor" : 16729156,
+			"hoverTextColor" : 14483456,
+			"texture" : "onelife:btn.png",
+            "posX" : 100,
+            "posY" : 50,
+            "width" : 153,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
+			"alignment" : "left_center",
+			"hoverText" : "No! Don't leave!",
+            "action" :
+            {
+                "type" : "quit"
+            }
+        },
+
+        "mods":
+        {
+            "text" : "Mods (#modsloaded#/#modsactive#)",
+			"normalTextColor" : 6710886,
+			"hoverTextColor" : 3125670,
+			"texture" : "onelife:btn.png",
+            "posX" : 100,
+            "posY" : 80,
+            "width" : 153,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
+			"alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+
+		"version":
+		{
+			"text": "'One Life' version 4.1",
+			"texture" : "onelife:btn.png",
+			"normalTextColor" : 6710886,
+			"hoverTextColor" : 13180727,
+			"posX" : 100,
+            "posY" : 100,
+            "width" : 153,
+            "height" : 20,
+			"alignment" : "left_center",
+            "hoverText" : "made with <3 by space",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://spce.moe"
+            }
+		}
+	},
+
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Forge #forgeversion# for Minecraft #mcversion# - Copyright Mojang AB. Do not distribute!",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+	},
+
+
+	"alignments":
+    {
+        "c1":
+        {
+            "factorWidth" : 0.5,
+            "factorHeight" : 0.7
+        },
+
+        "c2":
+        {
+            "factorWidth" : 0.2,
+            "factorHeight" : 0.2
+        }
+    },
+
+    "other":
+    {
+        "panorama":
+        {
+            "images" : "onelife:panorama/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true
+        }
+    }
+}

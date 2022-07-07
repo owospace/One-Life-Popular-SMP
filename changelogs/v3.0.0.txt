@@ -1,0 +1,26 @@
+Pyramids are now a thing, as seen in Jacks Video (Episode 4) - ⛄🎄𝚛𝚊𝚒𝚕🎄⛄#8104 / zoinks#5555
+Fixed Texture Animations not working correctly sometimes - 
+Recoded everything from scratch - 
+Improved mob spawning and fixed low vanilla spawn rates (needs further testing) - 
+Endermen can now break blocks like the real series - 
+Improved JSON code for the Main Menu - 
+Scaling Health now produces "blights"- as seen in the series, but on a much lower level. - 
+Updated memory-fixes and performance patches - 
+Added Laurenzside's Texture Pack (By Request) - 
+Binaries updated for the server package - 
+Downgraded a few mods to stable (What the fuck is this added for?) - 
+Updated FFixPatches - 
+Updated RandomPatches - 
+Updated Natures Compass - 
+Updated Crayfish Furniture - 
+Updated JEI - 0
+Updated iChung's things (Hats, util, stand) - 
+Updated ScalingHealth (fixes starting health bug) - 
+Updated like a fucking thousand configurations. -
+Removed client mods from server pack because that doesn't break apparently - 
+Added a little "need help" to the start scripts - 
+Disabled 2 biomes (from newer versions of Biomes O Plenty) - 
+Added MobBlocker blocks (as seen in Episode 1 of Jack's Series) - 
+Updated modpack resources for a new Main Menu -
+Updated the One Life Main Menu - 
+Updated Quark (And added a better config to remove latest features, whilst keeping latest fixes) - 

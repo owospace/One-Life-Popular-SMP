@@ -1,0 +1,7 @@
++ Re-added Flesh to Furnace mod.
++ Re-added Hat Stands mod.
+
+/ Updated Quark to remove auto-afk
+/ Tempoarily patch issues with MoCreatures Jellyfish's 'isGlowing' class.
+/ Fix Veinminer causing a NPE.
+

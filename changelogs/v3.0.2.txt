@@ -1,0 +1,7 @@
+- Updated Nature's Compass (Fixing that pesky bug on the server-side)
+- Cleaned up the Main Menu code a little
+- Updated JourneyMap
+- Added FastFurnace
+- Added FastWorkbench
+- Added Clumps
+- Updated our support link

@@ -1,0 +1,1 @@
+- Apparently you now need to use Forge's installer. So yeah, that's fixed.

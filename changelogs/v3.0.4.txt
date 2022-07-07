@@ -1,0 +1,22 @@
+- Added ReAuth
+- Added Unloader
+- Updated Forge to 14.23.5.2854
+- Updated SecurityCraft
+- Updated Fairy Lights
+- Updated Hats
+- Updated JEI
+- Updated CraftPresence
+- Updated Optifine
+- Updated Outfox
+- Updated RandomPatches
+- Updated VanillaFix
+- Updated GottschCore
+- Removed Optifine (Server Pack)
+- Removed BetterFPS
+- Removed ToroHealth (Server Pack)
+- Fixed Laurens Resource Pack
+- Improved start.bat/start.sh using aikars garbage collection
+- Fixed several performance issues that MIGHT be triggered when launching the pack/server.
+- Fixed an issue with methods already being written to.
+- Fixed an issue with LootTables causing a server crash.
+- Fixed naming scheme with Main Menu

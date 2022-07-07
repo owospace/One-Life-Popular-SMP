@@ -1,0 +1,19 @@
+- Updated Custom Main Menu to fix "connectToServer"
+- Updated Extra Golems
+- Updated JourneyMap
+- Updated NaturesCompass
+- Updated Quark
+- Updated RandomPatches
+- Updated SecurityCraft
+- Updated SilentLib
+- Fixed a serious duplication/steal issue with ChestGUI's
+- Fixed issue with hearts not appearing correctly on the interface
+- Fixed a patch preventing Vivecraft from loading
+- Cleaned up CustomMainMenu code a little better
+- Added a readme.txt for simplicities sake to the server package
+- Fixed out-of-date support link
+- Added loads more info to the Discord Rich Presence feature
+- Fixed issue with naturalRegeneration not working as expected
+- Fixed loads of misconfigurations (bunnies spawning in Wyvern Lair???)
+- Added "1.12.2" to the Window title just to stop people asking
+- Updated Laurenzide's texture pack, apparently fixed.

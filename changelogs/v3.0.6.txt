@@ -1,0 +1,2 @@
+- Fixed a bug with placing backpacks causing NBTCompound related issues.
+- Attempt fix MoCreatures spawning way too many fucking mobs (p1)

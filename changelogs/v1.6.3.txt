@@ -1,0 +1,16 @@
+Modpack Client:
+- Removed DiscordRP (Only for CurseForge Versions)
+- Removed Optifine (Only for CurseForge Versions)
+- Changed the "One Life" Version tab on the main menu to link with new Discord Server.
+- Updated FoamFix
+- Updated BiomesOP
+- Updated Mowzies Mobs
+- Updated HorseTweaks
+- Updated ScalingHealth
+- Updated Forge to Latest
+
+Modpack Server:
+- Changed the "get help" page to link to the new Discord Server.
+- Updated a small watchdog issue within the server start script.
+- All changes from Modpack Client.
+- Updated Forge to Latest
